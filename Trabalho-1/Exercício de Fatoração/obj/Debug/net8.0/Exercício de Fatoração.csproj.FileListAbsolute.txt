@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\bin\Debug\net8.0\Exercício de Fatoração.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\bin\Debug\net8.0\Exercício de Fatoração.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\bin\Debug\net8.0\Exercício de Fatoração.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\bin\Debug\net8.0\Exercício de Fatoração.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\bin\Debug\net8.0\Exercício de Fatoração.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.sourcelink.json
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\refint\Exercício de Fatoração.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\Exercício de Fatoração.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\GitHub\calculo-numerico-operacinal\Trabalho-1\Exercício de Fatoração\obj\Debug\net8.0\ref\Exercício de Fatoração.dll

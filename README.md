@@ -2,6 +2,7 @@
 
 ## Contribuidores
 [Paulo André Ribeiro Said](github.com/PauloSaid)
+
 [Matheus Muruci de Souza Lopes](github.com/matheusmslopes)
 
 ## Objetivo

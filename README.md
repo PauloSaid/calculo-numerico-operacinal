@@ -1,9 +1,9 @@
 # Cálculo Numérico Operacional.
 
 ## Contribuidores
-[Paulo André Ribeiro Said](github.com/PauloSaid)
+[Paulo André Ribeiro Said](https://github.com/PauloSaid)
 
-[Matheus Muruci de Souza Lopes](github.com/matheusmslopes)
+[Matheus Muruci de Souza Lopes](https://github.com/Matheusmslopes)
 
 ## Objetivo
 O objetivo deste exercício é aplicar a fatoração LU para resolver o sistema de equações lineares Ax = b, demonstrando compreensão do processo e habilidade em implementar o algoritmo correspondente.

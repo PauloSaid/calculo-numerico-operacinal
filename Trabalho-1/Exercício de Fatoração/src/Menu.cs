@@ -10,6 +10,7 @@ class Menu
         int tamanho;
         Console.WriteLine("Informe o tamanho da matriz: ");
         tamanho = int.Parse(Console.ReadLine());
-        Matriz.CriaMatriz(tamanho);
+        int[,] matrizA = Matriz.CriaMatriz(tamanho);
+        int[] matrizB = Matriz.CriaMatrizB(tamanho);
     }
 }

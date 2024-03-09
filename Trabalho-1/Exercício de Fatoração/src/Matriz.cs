@@ -20,13 +20,11 @@ class Matriz
     public static int[] CriaMatrizB(int tamanho)
     {
         int[] matrizB = new int[tamanho];
-        int i = 0;
 
-        foreach(var element in matrizB)
+        for(int i = 0; i < tamanho; i++)
         {
             Console.WriteLine($"Informe o valor resultante para a linha {i}");
-            matrizB[element] = int.Parse(Console.ReadLine());
-            i++;
+            matrizB[i] = int.Parse(Console.ReadLine());
         }
 
         return matrizB;

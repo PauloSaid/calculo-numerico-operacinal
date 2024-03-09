@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercício de Fatoração")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354841490ec4a5963f00bd9b9b3deeac32705962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea868a6f8aae38387a19710c0e3d21b3bb110ff9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercício de Fatoração")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercício de Fatoração")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

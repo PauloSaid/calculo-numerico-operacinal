@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1zJsGWWskwOlNrWpm9qYty6NmCrYAqai5+SHqs7QGVPjnD6l77VgJ5hP11uwPWpqKwmFgcQbPWc89mJYMye7lQ==",
+  "dgSpecHash": "kz0+iNdDc4IHpJOS+H453CsUCx0LrR9Na9hjlxQ/pcC4WqrrxmM7G3vBE/JN8HPW1f6aGLdrueCUTvuJpmFaEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\TrabLU.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Matheus\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta1\\mathnet.numerics.6.0.0-beta1.nupkg.sha512"
+    "C:\\Users\\Matheus\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta1\\mathnet.numerics.6.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -48,3 +48,6 @@ C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\obj\Debug
 C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\obj\Debug\net8.0\TrabLU.pdb
 C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\obj\Debug\net8.0\TrabLU.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\obj\Debug\net8.0\ref\TrabLU.dll
+C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Matheus\Desktop\calculo-numerico-operacinal\Trabalho-1\TrabLU\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll

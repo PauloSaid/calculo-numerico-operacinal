@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\TrabLU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\TrabLU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj",
-        "projectName": "Exercício de Fatoração",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\TrabLU.csproj",
+        "projectName": "TrabLU",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\TrabLU.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\calculo-numerico-operacinal\\Trabalho-1\\TrabLU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[6.0.0-beta1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

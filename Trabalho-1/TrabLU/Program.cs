@@ -7,7 +7,7 @@
     */
     public static void Main(string[] args)
     {
-       //DecompLU.DecomposicaoLU();
-       ImageLU.ImgLU();
+       DecompLU.DecomposicaoLU();
+       //ImageLU.ImgLU();
     }
 }

@@ -9,12 +9,12 @@ public class DecompLU
     {
         Console.Clear();
         /*
-            Utilizando o exemplo que foi dado em sala de aula:
-                3x + 2y + 4z = 1
-                1x +  y + 2z = 2
-                4x + 3y - 2z = 3
+            Utilizando o exemplo que foi dado no trabalho:
+                4x - 2y + z = 11
+                -2x + 4y - 2z = -16
+                x - 2y + 4z = 17
 
-                espera-se que o resultado seja uma matriz X(3x1) com os resultados [-3, 5,0] */
+                espera-se que o resultado seja uma matriz X(3x1) com os resultados [1, -2, 3] */
 
         /* Input para pegar o tamanho da matriz */
         Console.Write("Informe o tamanho da matriz: ");
@@ -50,9 +50,10 @@ public class DecompLU
         /* Chamamos a bibiloteca MathNet para resolver as fatoracao LU */
         var matrizX = matrizA.Solve(matrizB);
 
-        /* Instância de variável para salvar as matrizes L e U */
-        var matrizL = matrizA.LowerTriangle();
-        var matrizU = matrizA.UpperTriangle();
+        /* Usando a função LU() obtemos acesso as matrizes L e U separadamente, diferente da funcao Solve() que já resolve tudo de uma vez */
+        var lu = matrizA.LU();
+        var matrizL = lu.L;
+        var matrizU = lu.U;
 
         Console.WriteLine("Matriz L:");
         ImprimeMatriz(matrizL);
